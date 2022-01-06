@@ -3,7 +3,7 @@ import { Card, CardContent, CardHeader } from '@material-ui/core';
 
 export default () => (
     <Card>
-        <CardHeader title="Welcome to the administration" />
+        <CardHeader title="Welcome to Club 3" />
         <CardContent>Lorem ipsum sic dolor amet...</CardContent>
     </Card>
 );
